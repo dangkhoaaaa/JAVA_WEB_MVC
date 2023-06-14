@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MVC2SE1751">
+   <Resource
+      name="JohnyEnglishDB" type="javax.sql.DataSource" auth="Container"
+      driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+      url="jdbc:sqlserver://HELLO-WORLD:1433;databaseName=dao"
+      username="sa" password="12345"
+   />
+   
+    
+</Context>
